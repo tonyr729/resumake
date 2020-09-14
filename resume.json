@@ -1,0 +1,183 @@
+{
+    "selectedTemplate": 2,
+    "headings": {
+      "projects": "Projects",
+      "awards": "",
+      "education": "Education",
+      "work": "Work Experience",
+      "skills": "Skills"
+    },
+    "basics": {
+      "website": "tonyrobertson.info",
+      "location": {
+        "address": "Colorado Springs, CO"
+      },
+      "name": "Tony Robertson",
+      "phone": "(907) 987-0569",
+      "email": "tonyr729@gmail.com"
+    },
+    "education": [
+      {
+        "institution": "Turing School of Software and Design",
+        "location": "Denver, CO",
+        "studyType": "Technical Degree (Hired before completion)",
+        "startDate": "Aug 2018",
+        "endDate": "Feb 2018",
+        "area": "Back-end Development"
+      },
+      {
+        "location": "Denver, CO",
+        "studyType": "Technical Degree",
+        "startDate": "Jan 2018",
+        "endDate": "Aug 2018",
+        "area": "Front-end Development",
+        "institution": "Turing School of Software and Design"
+      },
+      {
+        "institution": "Western Nevada College",
+        "location": "Carson City, NV",
+        "studyType": "Associates Degree",
+        "area": "Graphic Design",
+        "gpa": "3.8",
+        "startDate": "Aug 2005",
+        "endDate": "Jun 2007"
+      },
+      {
+        "institution": "Air Force Community College",
+        "studyType": "CCAF",
+        "area": "Aircraft Maintenance Systems ",
+        "endDate": "2014"
+      }
+    ],
+    "work": [
+      {
+        "company": "Palski & Associates, Inc",
+        "location": "Colorado Springs, CO",
+        "website": "",
+        "startDate": "Jan 2020",
+        "highlights": [
+          "Delivered CI/CD pipelines for new Architecture with deployment to AWS services.",
+          "Advaced into companies primary Cloud Solutions Architect role after completing Architecture transition to microservices.",
+          "Provided Architecture support and guidance for multiple team across several contracts. "
+        ],
+        "position": "Cloud Solutions Architect | Software Engineer II",
+        "endDate": "Present"
+      },
+      {
+        "company": "Palski & Associates, Inc",
+        "location": "Colorado Springs, CO",
+        "website": "",
+        "startDate": "Mar 2019",
+        "highlights": [
+          "Volunteered to take on role of DevOps for the company. Transitioned architecture from monolithic codebase into containerized micro-services with full CI/CD pipelines for development and production.",
+          "Lead development of better state management on the front-end by setting up immutable store services.",
+          "Suggested standards and practices in development process. Implemented coding guidelines and global linting rules as well as a revised pull request process to include code review.",
+          "Started lightning talks every Friday. Allows team to share subject matter expert knowledge with the team while developing speaking skills."
+        ],
+        "position": "Software Engineer I",
+        "endDate": "Present"
+      },
+      {
+        "highlights": [
+          "Demonstrated advanced troubleshooting skills by fixing 240+ equipment errors during aircraft flight schedules.",
+          "Trained 80-member team on correct inspection procedures of the A10 aircraft gun system.",
+          "Reviewed over 50,000 yearly data entries of maintenance documentation ensuring proper values of maintenance actions are used.",
+          "Hand chosen to be dispatched to in-flight emergency of A10 aircraft belly landing to remove all explosive munitions from damaged Aircraft."
+        ],
+        "company": "United States Air Force",
+        "position": "Weapons Crew Lead",
+        "startDate": "Nov 2008",
+        "endDate": "Nov 2017"
+      }
+    ],
+    "skills": [
+      {
+        "level": "",
+        "keywords": [
+          "Angular - Typescript",
+          "DevOps",
+          "AWS",
+          "CI/CD",
+          "WebSockets",
+          "Unit/Functional/Async Testing",
+          "Database Management"
+        ],
+        "name": "Technologies"
+      },
+      {
+        "keywords": [
+          "UX/UI - Adobe CS - Sketch - Invision Suite",
+          "Ruby on Rails",
+          "HTML5 - CSS3 - ES6 - jQuery",
+          "WAI-ARIA "
+        ]
+      },
+      {
+        "keywords": [
+          "Product Management",
+          "Scrum/Team Lead Management",
+          "Agile - Waterfall - Dynamic Development"
+        ],
+        "name": "Soft Skills"
+      },
+      {
+        "keywords": [
+          "Interpersonal Communication",
+          "Critical Thinking",
+          "Self Sufficient ",
+          "Resilient"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Leaderboard",
+        "description": "Built for a client that wanted a dynmic leaderboard system for smaller sporting events that updates in realtime to score changes. Also displays media of current run when there is an update.",
+        "keywords": [
+          "React",
+          "Redux",
+          "Router",
+          "SCSS",
+          "Express",
+          "Knex",
+          "Postgress DB",
+          "WebSockets",
+          "Jest",
+          "Enzyme"
+        ],
+        "url": "https://github.com/tonyr729/leaderboard"
+      },
+      {
+        "keywords": [
+          "React",
+          "Redux",
+          "Router",
+          "SCSS",
+          "Firebase NoSQL Backend",
+          "GitHub API",
+          "Jest",
+          "Enzyme"
+        ],
+        "name": "Devs Give Back",
+        "description": "devsGIVEback is a platform to connect non-developers with developers. Those out there that have an issue that can be solved by software can meet developers that are willing to volunteer their time and skill to solve civic-minded problems or issues that affect large groups of people.",
+        "url": "https://github.com/tonyr729/devs-give-back"
+      }
+    ],
+    "awards": [
+      {
+        "title": "",
+        "date": "",
+        "awarder": "",
+        "summary": ""
+      }
+    ],
+    "sections": [
+      "templates",
+      "profile",
+      "work",
+      "skills",
+      "projects",
+      "education",
+      "awards"
+    ]
+  }
