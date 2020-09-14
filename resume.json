@@ -20,18 +20,10 @@
       {
         "institution": "Turing School of Software and Design",
         "location": "Denver, CO",
-        "studyType": "Technical Degree (Hired before completion)",
-        "startDate": "Aug 2018",
-        "endDate": "Feb 2018",
-        "area": "Back-end Development"
-      },
-      {
-        "location": "Denver, CO",
         "studyType": "Technical Degree",
         "startDate": "Jan 2018",
-        "endDate": "Aug 2018",
-        "area": "Front-end Development",
-        "institution": "Turing School of Software and Design"
+        "endDate": "Feb 2019",
+        "area": "Front-end Development (competed) Back-end Development (hired before completion)"
       },
       {
         "institution": "Western Nevada College",
@@ -41,12 +33,6 @@
         "gpa": "3.8",
         "startDate": "Aug 2005",
         "endDate": "Jun 2007"
-      },
-      {
-        "institution": "Air Force Community College",
-        "studyType": "CCAF",
-        "area": "Aircraft Maintenance Systems ",
-        "endDate": "2014"
       }
     ],
     "work": [
@@ -56,11 +42,10 @@
         "website": "",
         "startDate": "Jan 2020",
         "highlights": [
-          "Delivered CI/CD pipelines for new Architecture with deployment to AWS services.",
-          "Advaced into companies primary Cloud Solutions Architect role after completing Architecture transition to microservices.",
-          "Provided Architecture support and guidance for multiple team across several contracts. "
+          "Advanced into companies Lead Cloud Solutions Architect role after completing Architecture transition to micro-services.",
+          "Provided Architecture support and guidance for multiple teams across several contracts. "
         ],
-        "position": "Cloud Solutions Architect | Software Engineer II",
+        "position": "Lead Cloud Solutions Architect | Software Engineer II",
         "endDate": "Present"
       },
       {
@@ -79,9 +64,7 @@
       },
       {
         "highlights": [
-          "Demonstrated advanced troubleshooting skills by fixing 240+ equipment errors during aircraft flight schedules.",
           "Trained 80-member team on correct inspection procedures of the A10 aircraft gun system.",
-          "Reviewed over 50,000 yearly data entries of maintenance documentation ensuring proper values of maintenance actions are used.",
           "Hand chosen to be dispatched to in-flight emergency of A10 aircraft belly landing to remove all explosive munitions from damaged Aircraft."
         ],
         "company": "United States Air Force",
@@ -176,8 +159,8 @@
       "profile",
       "work",
       "skills",
-      "projects",
       "education",
+      "projects",
       "awards"
     ]
   }
