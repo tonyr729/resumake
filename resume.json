@@ -42,10 +42,11 @@
       "website": "",
       "startDate": "Jan 2020",
       "highlights": [
-        "Advanced into companies Lead Cloud Solutions Architect role after leading completion of Architecture transition to micro-services.",
-        "Provide Architecture support and guidance for multiple teams across several contracts. "
+        "Provide Architecture support and guidance for multiple teams across several contracts. ",
+        "Set up a new projects architecture on Defense Intelligence Information Enterprise ahead of schedule",
+        "Implemented SonarQube scanning on several projects to drastically improve code quality and reliability. "
       ],
-      "position": "Lead Cloud Solutions Architect | Software Engineer II",
+      "position": "Software Engineer II - Lead Architect ",
       "endDate": "Present"
     },
     {
@@ -115,7 +116,7 @@
   "projects": [
     {
       "name": "Leaderboard",
-      "description": "Built for a client that wanted a dynmic leaderboard system for smaller sporting events that updates in realtime to score changes. Also displays media of current run when there is an update.",
+      "description": "Built for a client that wanted a dynamic leaderboard system for smaller sporting events that updates in realtime to score changes. Also displays media of current run when there is an update.",
       "keywords": [
         "React",
         "Redux",
@@ -158,9 +159,9 @@
     "templates",
     "profile",
     "work",
+    "projects",
     "skills",
     "education",
-    "projects",
     "awards"
   ]
 }
