@@ -8,9 +8,8 @@
     "skills": "Skills"
   },
   "basics": {
-    "website": "tonyrobertson.info",
     "location": {
-      "address": "Colorado Springs, CO"
+      "address": "Aurora, CO"
     },
     "name": "Tony Robertson",
     "phone": "(907) 987-0569",
@@ -23,7 +22,7 @@
       "studyType": "Technical Degree",
       "startDate": "Jan 2018",
       "endDate": "Feb 2019",
-      "area": "Front-end Development (competed) Back-end Development (hired before completion)"
+      "area": "Front-end(competed) Back-end (hired before completion)"
     },
     {
       "institution": "Western Nevada College",
@@ -43,10 +42,10 @@
       "startDate": "Jan 2020",
       "highlights": [
         "Provide Architecture support and guidance for multiple teams across several contracts. ",
-        "Set up a new projects architecture on Defense Intelligence Information Enterprise ahead of schedule",
+        "Set up a new projects architecture on Defense Intelligence Information Enterprise ahead of schedule.",
         "Implemented SonarQube scanning on several projects to drastically improve code quality and reliability. "
       ],
-      "position": "Software Engineer II - Lead Architect ",
+      "position": "Software Engineer II - Architect Analyst",
       "endDate": "Present"
     },
     {
@@ -78,27 +77,26 @@
     {
       "level": "",
       "keywords": [
-        "Angular - Typescript",
+        "JavaScript - Angular - React - Typescript - jQuery",
         "DevOps",
         "AWS",
         "CI/CD",
-        "WebSockets",
-        "Unit/Functional/Async Testing",
-        "Database Management"
+        "WebSockets"
       ],
       "name": "Technologies"
     },
     {
       "keywords": [
-        "UX/UI - Adobe CS - Sketch - Invision Suite",
+        "Unit/Functional/Async Testing",
+        "Database Management",
+        "UI/UX",
         "Ruby on Rails",
-        "HTML5 - CSS3 - ES6 - jQuery",
-        "WAI-ARIA "
+        "HTML5 - CSS3"
       ]
     },
     {
       "keywords": [
-        "Product Management",
+        "Project Management",
         "Scrum/Team Lead Management",
         "Agile - Waterfall - Dynamic Development"
       ],
@@ -159,9 +157,9 @@
     "templates",
     "profile",
     "work",
-    "projects",
-    "skills",
     "education",
+    "skills",
+    "projects",
     "awards"
   ]
 }
