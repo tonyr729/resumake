@@ -36,6 +36,18 @@
   ],
   "work": [
     {
+      "highlights": [
+        "Lead rebranding effort of major product from approval to release.",
+        "Advised PO to provide roadmap for frontend improvements, tech debt, and accessibility efforts.",
+        "Hand chosen to be single full time infra and full stack effort creating internal tool in react. "
+      ],
+      "company": "Modivcare",
+      "position": "Software Engineer II - Frontend Developer",
+      "location": "Denver, CO",
+      "startDate": "Jul 2021",
+      "endDate": "Current"
+    },
+    {
       "company": "Palski & Associates, Inc",
       "location": "Colorado Springs, CO",
       "website": "",
@@ -46,7 +58,7 @@
         "Implemented SonarQube scanning on several projects to drastically improve code quality and reliability. "
       ],
       "position": "Software Engineer II - Architect Analyst",
-      "endDate": "Present"
+      "endDate": "Jul 2021"
     },
     {
       "company": "Palski & Associates, Inc",
@@ -59,43 +71,32 @@
         "Improved teams development processes. Implemented coding guidelines and global linting rules as well as a revised pull request process to include code review.",
         "Advanced teams professional development. Implement lightning talks every week to allow team members to share subject matter expert knowledge with the team while developing public speaking skills."
       ],
-      "position": "Software Engineer I",
-      "endDate": "Present"
-    },
-    {
-      "highlights": [
-        "Trained 80-member team on correct inspection procedures of the A10 aircraft gun system.",
-        "Hand chosen to be dispatched to in-flight emergency of A10 aircraft belly landing to remove all explosive munitions from damaged Aircraft."
-      ],
-      "company": "United States Air Force",
-      "position": "Weapons Crew Lead",
-      "startDate": "Nov 2008",
-      "endDate": "Nov 2017"
+      "position": "Software Engineer I - Fullstack Developer",
+      "endDate": "Jan 2020"
     }
   ],
   "skills": [
     {
       "level": "",
       "keywords": [
-        "JavaScript - Angular - React - Typescript - jQuery",
-        "DevOps",
-        "AWS",
-        "CI/CD",
-        "WebSockets"
+        "JavaScript - React - Angular - Typescript",
+        "DevOps - AWS - CI/CD - Docker",
+        "Websockets"
       ],
       "name": "Technologies"
     },
     {
       "keywords": [
-        "Unit/Functional/Async Testing",
-        "Database Management",
+        "TDD - Jest - Unit/Functional/Async Testing",
+        "GraphQL",
+        "Database - SQL/NoSQL",
         "UI/UX",
-        "Ruby on Rails",
-        "HTML5 - CSS3"
+        "HTML5/CSS3"
       ]
     },
     {
       "keywords": [
+        "Autonomous",
         "Project Management",
         "Scrum/Team Lead Management",
         "Agile - Waterfall - Dynamic Development"
@@ -106,8 +107,8 @@
       "keywords": [
         "Interpersonal Communication",
         "Critical Thinking",
-        "Self Sufficient ",
-        "Resilient"
+        "Resilient",
+        "Polygot Developer"
       ]
     }
   ],
@@ -157,9 +158,9 @@
     "templates",
     "profile",
     "work",
-    "education",
-    "skills",
     "projects",
+    "skills",
+    "education",
     "awards"
   ]
 }
