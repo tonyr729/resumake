@@ -37,9 +37,10 @@
   "work": [
     {
       "highlights": [
+        "Hand chosen to be single full time dev creating internal tool implementing infra and full stack solutions.",
+        "Collaborating with infrastructure team to utilize Terraform to template ECS application deployments.",
         "Lead rebranding effort of major product from approval to release.",
-        "Advised PO to provide roadmap for frontend improvements, tech debt, and accessibility efforts.",
-        "Hand chosen to be single full time infra and full stack effort creating internal tool in react. "
+        "Advised PO to provide roadmap for frontend improvements, tech debt, and accessibility efforts."
       ],
       "company": "Modivcare",
       "position": "Software Engineer II - Frontend Developer",
@@ -53,7 +54,8 @@
       "website": "",
       "startDate": "Jan 2020",
       "highlights": [
-        "Provide Architecture support and guidance for multiple teams across several contracts. ",
+        "Developed proficiency in AWS CloudFormation, ECS, ECR, EC2, SNS, RDS and S3 services to support client needs.",
+        "Provide AWS Cloud Architecture support and guidance for multiple teams across several contracts.",
         "Set up a new projects architecture on Defense Intelligence Information Enterprise ahead of schedule.",
         "Implemented SonarQube scanning on several projects to drastically improve code quality and reliability. "
       ],
@@ -114,6 +116,21 @@
   ],
   "projects": [
     {
+      "keywords": [
+        "React",
+        "Express",
+        "MySQL",
+        "Jest/Enzyme",
+        "ESLint",
+        "Prettier",
+        "Husky",
+        "Commitlint"
+      ],
+      "name": "Category and List Drag-and-Drop Tool",
+      "description": "An agnostic tool that allows category containers to hold lists if information \"tiles\". These tiles and categories can be added or removed and arranged to a savable layout.",
+      "url": "https://github.com/tonyr729/dnd-tile-n-categories"
+    },
+    {
       "name": "Leaderboard",
       "description": "Built for a client that wanted a dynamic leaderboard system for smaller sporting events that updates in realtime to score changes. Also displays media of current run when there is an update.",
       "keywords": [
@@ -129,21 +146,6 @@
         "Enzyme"
       ],
       "url": "https://github.com/tonyr729/leaderboard"
-    },
-    {
-      "keywords": [
-        "React",
-        "Redux",
-        "Router",
-        "SCSS",
-        "Firebase NoSQL Backend",
-        "GitHub API",
-        "Jest",
-        "Enzyme"
-      ],
-      "name": "Devs Give Back",
-      "description": "devsGIVEback is a platform to connect non-developers with developers. Those out there that have an issue that can be solved by software can meet developers that are willing to volunteer their time and skill to solve civic-minded problems or issues that affect large groups of people.",
-      "url": "https://github.com/tonyr729/devs-give-back"
     }
   ],
   "awards": [
